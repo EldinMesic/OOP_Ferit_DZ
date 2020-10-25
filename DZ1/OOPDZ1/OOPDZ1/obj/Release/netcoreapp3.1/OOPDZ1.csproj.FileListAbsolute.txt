@@ -1,0 +1,13 @@
+D:\Visual studio projects\OOPDZ1\OOPDZ1\bin\Release\netcoreapp3.1\OOPDZ1.exe
+D:\Visual studio projects\OOPDZ1\OOPDZ1\bin\Release\netcoreapp3.1\OOPDZ1.deps.json
+D:\Visual studio projects\OOPDZ1\OOPDZ1\bin\Release\netcoreapp3.1\OOPDZ1.runtimeconfig.json
+D:\Visual studio projects\OOPDZ1\OOPDZ1\bin\Release\netcoreapp3.1\OOPDZ1.runtimeconfig.dev.json
+D:\Visual studio projects\OOPDZ1\OOPDZ1\bin\Release\netcoreapp3.1\OOPDZ1.dll
+D:\Visual studio projects\OOPDZ1\OOPDZ1\bin\Release\netcoreapp3.1\OOPDZ1.pdb
+D:\Visual studio projects\OOPDZ1\OOPDZ1\obj\Release\netcoreapp3.1\OOPDZ1.csprojAssemblyReference.cache
+D:\Visual studio projects\OOPDZ1\OOPDZ1\obj\Release\netcoreapp3.1\OOPDZ1.AssemblyInfoInputs.cache
+D:\Visual studio projects\OOPDZ1\OOPDZ1\obj\Release\netcoreapp3.1\OOPDZ1.AssemblyInfo.cs
+D:\Visual studio projects\OOPDZ1\OOPDZ1\obj\Release\netcoreapp3.1\OOPDZ1.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\OOPDZ1\OOPDZ1\obj\Release\netcoreapp3.1\OOPDZ1.dll
+D:\Visual studio projects\OOPDZ1\OOPDZ1\obj\Release\netcoreapp3.1\OOPDZ1.pdb
+D:\Visual studio projects\OOPDZ1\OOPDZ1\obj\Release\netcoreapp3.1\OOPDZ1.genruntimeconfig.cache
